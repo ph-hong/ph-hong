@@ -1,13 +1,13 @@
-### Hello, I'm HONG PHAN <img src="https://media.giphy.com/media/c1R3XcUXVWAFy/source.gif" width="40"></h2>
+### Hello, I'm HONG PHAN <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="40"></h2>
 <img align='right' width="200">
 
 #### 🌐 Socials
-[![Linkedin: ph-hong](https://img.shields.io/badge/HongPhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/ph-hong/)](https://www.linkedin.com/in/ph-hong/)
+[![Linkedin: ph-hong](https://img.shields.io/badge/HongPhan-0077B5?style=flat&logo=linkedin&logoColor=white&link=linkedin.com/in/ph-hong/)](https://www.linkedin.com/in/ph-hong/)
 
  #### 🍁 About Me :
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 🌱 I’m currently learning everything to becone an Software Testing Automation Engineer
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 🎯 2023 Goals: Continually Learn automation testing
-- <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 🌟 Fun fact: I love cooking and trekking
+- 🌱 I’m currently learning everything to becone an Software Testing Automation Engineer
+- 🎯 2023 Goals: Continually Learn automation testing
+- 🌟 Fun fact: I love cooking and trekking
 
 #### 💻 Tools and Tech Stuff
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
@@ -21,8 +21,9 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
+#### 📊 GitHub Stats
 <details>
-  <summary> 📊 GitHub Stats :</summary>
+  <summary> </summary>
 
   <img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" />
 
