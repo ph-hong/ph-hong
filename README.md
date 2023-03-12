@@ -19,14 +19,16 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
+---
 
 #### 📊 GitHub Stats And Most Used Languages
 
 <a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" /></a>  <a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-hong&show_icons=true&theme=dracula" /></a> 
+
 <br />
 <br />
 <br />
@@ -37,7 +39,9 @@
 <br />
 <br />
 
-#### Top Repositories
+#### 🔗 Top Repositories
+<details>
+  <summary></summary>
 
 <a href="https://github.com/ph-hong/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-framework-techpanda&theme=dracula" />
@@ -45,3 +49,4 @@
 <a href="https://github.com/ph-hong/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress&theme=dracula" />
 </a>
+</details>
