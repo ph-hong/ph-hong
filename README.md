@@ -20,10 +20,20 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
-#### 📊 GitHub Stats
+#### 📊 GitHub Stats And Most Used Languages
+
 <details>
   <summary> </summary>
 
-  <img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" />
+<a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" /></a>  <a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-hong&show_icons=true&theme=dracula" /></a> 
 
+</details>
+
+#### 📊 Top Repositories 
+<details>
+  <summary> </summary>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-framework-techpanda)](https://github.com/ph-hong/hybrid-framework-techpanda)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress)](https://github.com/ph-hong/gui-framework-cypress)
 </details>
