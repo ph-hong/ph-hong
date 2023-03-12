@@ -1,4 +1,4 @@
-### Hello, I'm HONG PHAN <img src="https://media.giphy.com/media/KyCKg4Z3rmyrXMUNuk/source.gif" width="40"></h2>
+### Hello, I'm HONG PHAN <img src="https://media.giphy.com/media/c1R3XcUXVWAFy/source.gif" width="40"></h2>
 <img align='right' width="200">
 
 #### 🌐 Socials
@@ -9,7 +9,7 @@
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 🎯 2023 Goals: Continually Learn automation testing
 - <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="20"> 🌟 Fun fact: I love cooking and trekking
 
-#### 🖱️ Tools and Tech Stuff
+#### 💻 Tools and Tech Stuff
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
