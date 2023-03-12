@@ -1,13 +1,16 @@
 ### Hello, I'm HONG PHAN <img src="https://media.giphy.com/media/j5oMK60WVe1w9YaaOa/source.gif" width="40"></h2>
 <img align='right' width="200">
 
+
 #### 🌐 Socials
 [![Linkedin: ph-hong](https://img.shields.io/badge/HongPhan-0077B5?style=flat&logo=linkedin&logoColor=white&link=linkedin.com/in/ph-hong/)](https://www.linkedin.com/in/ph-hong/)
+
 
  #### 🍁 About Me :
 - 🌱 I’m currently learning everything to becone an Software Testing Automation Engineer
 - 🎯 2023 Goals: Continually Learn automation testing
 - 🌟 Fun fact: I love cooking and trekking
+
 
 #### 💻 Tools and Tech Stuff
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -20,20 +23,25 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
+
 #### 📊 GitHub Stats And Most Used Languages
 
-<details>
-  <summary> </summary>
-
 <a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" /></a>  <a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-hong&show_icons=true&theme=dracula" /></a> 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
-</details>
+#### Top Repositories
 
-#### 📊 Top Repositories 
-<details>
-  <summary> </summary>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-framework-techpanda)](https://github.com/ph-hong/hybrid-framework-techpanda)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress)](https://github.com/ph-hong/gui-framework-cypress)
-</details>
+<a href="https://github.com/ph-hong/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-framework-techpanda&theme=dracula" />
+</a>
+<a href="https://github.com/ph-hong/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress&theme=dracula" />
+</a>
