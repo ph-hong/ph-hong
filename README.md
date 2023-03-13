@@ -30,7 +30,7 @@
 
 #### 📊 GitHub Stats And Most Used Languages
 
-<a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" /></a>  <a href="https://github.com/ph-hong/github-readme-stats"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-hong&show_icons=true&theme=dracula" /></a> 
+<a href="https://github.com/ph-hong"><img align="left" alt="HongPhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ph-hong&show_icons=true&theme=dracula" /></a>  <a href="https://github.com/ph-hong"><img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-hong&show_icons=true&theme=dracula" /></a> 
 
 <br />
 <br />
