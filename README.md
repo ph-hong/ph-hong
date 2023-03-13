@@ -14,8 +14,11 @@
 
 #### 💻 Tools and Tech Stuff
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat&logo=cypress&logoColor=058a5e)
+![RESTassured](https://img.shields.io/badge/-RESTassured-2EC866?style=flat)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) 
@@ -43,10 +46,10 @@
 <details>
   <summary></summary>
 
-<a href="https://github.com/ph-hong/github-readme-stats">
+<a href="https://github.com/ph-hong/hybrid-framework-techpanda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-framework-techpanda&theme=dracula" />
 </a>
-<a href="https://github.com/ph-hong/anuraghazra.github.io">
+<a href="https://github.com/ph-hong/gui-framework-cypress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress&theme=dracula" />
 </a>
 </details>
