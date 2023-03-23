@@ -47,8 +47,8 @@
 <details>
   <summary></summary>
 
-<a href="https://github.com/ph-hong/hybrid-framework-techpanda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-framework-techpanda&theme=dracula" />
+<a href="https://github.com/ph-hong/hybrid-fw-nopcommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-fw-nopcommerce&theme=dracula" />
 </a>
 <a href="https://github.com/ph-hong/gui-framework-cypress">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress&theme=dracula" />
