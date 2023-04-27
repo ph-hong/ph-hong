@@ -46,11 +46,13 @@
 #### 🔗 Top Repositories
 <details>
   <summary></summary>
-
+<a href="https://github.com/ph-hong/hybrid-fw-bankguru">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-fw-bankguru&theme=dracula" />
+</a>
 <a href="https://github.com/ph-hong/hybrid-fw-nopcommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=hybrid-fw-nopcommerce&theme=dracula" />
 </a>
-<a href="https://github.com/ph-hong/gui-framework-cypress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=gui-framework-cypress&theme=dracula" />
+<a href="https://github.com/ph-hong/cypress-fw-gui">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ph-hong&repo=cypress-fw-gui&theme=dracula" />
 </a>
 </details>
