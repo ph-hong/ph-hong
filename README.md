@@ -8,7 +8,7 @@
 
  #### 🍁 About Me :
 - 🌱 I’m currently learning everything to become a Software Testing Automation Engineer
-- 🎯 2023 Goals: Continually learn automation testing
+- 🎯 Goals: Continually learn automation testing
 - 🌟 Fun fact: I love cooking and trekking
 
 
